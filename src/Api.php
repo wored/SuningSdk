@@ -4,7 +4,6 @@ namespace Wored\SuningSdk;
 
 use Hanson\Foundation\AbstractAPI;
 use Hanson\Foundation\Http;
-use Hanson\Foundation\Log;
 
 class Api extends AbstractAPI
 {
